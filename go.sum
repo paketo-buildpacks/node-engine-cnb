@@ -1527,7 +1527,6 @@ github.com/go-git/go-billy/v5 v5.6.0 h1:w2hPNtoehvJIxR00Vb4xX94qHQi/ApZfX+nBE2Cj
 github.com/go-git/go-billy/v5 v5.6.0/go.mod h1:sFDq7xD3fn3E0GOwUSZqHo9lrkmx8xJhA0ZrfvjBRGM=
 github.com/go-git/go-git-fixtures/v4 v4.3.1/go.mod h1:8LHG1a3SRW71ettAD/jW13h8c6AqjVSeL11RAdgaqpo=
 github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399 h1:eMje31YglSBqCdIqdhKBW8lokaMrL3uTkpGYlE2OOT4=
-github.com/go-git/go-git-fixtures/v4 v4.3.2-0.20231010084843-55a94097c399/go.mod h1:1OCfN199q1Jm3HZlxleg+Dw/mwps2Wbk9frAWm+4FII=
 github.com/go-git/go-git/v5 v5.6.1/go.mod h1:mvyoL6Unz0PiTQrGQfSfiLFhBH1c1e84ylC2MDs4ee8=
 github.com/go-git/go-git/v5 v5.13.0 h1:vLn5wlGIh/X78El6r3Jr+30W16Blk0CTcxTYcYPWi5E=
 github.com/go-git/go-git/v5 v5.13.0/go.mod h1:Wjo7/JyVKtQgUNdXYXIepzWfJQkUEIGvkvVkiXRR/zw=
@@ -3013,8 +3012,9 @@ github.com/sylabs/sif/v2 v2.7.2/go.mod h1:LQOdYXC9a8i7BleTKRw9lohi0rTbXkJOeS9u0e
 github.com/sylabs/sif/v2 v2.8.1/go.mod h1:LQOdYXC9a8i7BleTKRw9lohi0rTbXkJOeS9u0ebvgyM=
 github.com/sylabs/sif/v2 v2.18.0 h1:eXugsS1qx7St2Wu/AJ21KnsQiVCpouPlTigABh+6KYI=
 github.com/sylabs/sif/v2 v2.18.0/go.mod h1:GOQj7LIBqp15fjqH5i8ZEbLp8SXJi9S+xbRO+QQAdRo=
-github.com/sylabs/squashfs v0.6.1 h1:4hgvHnD9JGlYWwT0bPYNt9zaz23mAV3Js+VEgQoRGYQ=
 github.com/sylabs/squashfs v0.6.1/go.mod h1:ZwpbPCj0ocIvMy2br6KZmix6Gzh6fsGQcCnydMF+Kx8=
+github.com/sylabs/squashfs v1.0.0 h1:xAyMS21ogglkuR5HaY55PCfqY3H32ma9GkasTYo28Zg=
+github.com/sylabs/squashfs v1.0.0/go.mod h1:rhWzvgefq1X+R+LZdts10hfMsTg3g74OfGunW8tvg/4=
 github.com/sylvia7788/contextcheck v1.0.4/go.mod h1:vuPKJMQ7MQ91ZTqfdyreNKwZjyUg6KO+IebVyQDedZQ=
 github.com/syndtr/gocapability v0.0.0-20170704070218-db04d3cc01c8/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
 github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
